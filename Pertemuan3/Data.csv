@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased,Height
+France,48,74000,No,Tall
+Spain,26,49000,Yes,Short
+Germany,30,55000,No,Short
+Spain,30,91000,No,Tall
+Germany,40,,Yes,Short
+France,35,60000,Yes,Tall
+Spain,,53000,No,Tall
+France,49,80000,Yes,Short
+Germany,50,83000,No,Tall
+France,37,67000,Yes,Tall
